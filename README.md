@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BidhanBhagat....Front-end Developer
-- 👀 I’m interested in making atteractive and production basaed Web design and making front-end webpages.
+- 👀 I’m interested in making atteractive and production based Web design and making front-end webpages.
 - 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on any kind of front-end projects.
 - 📫 How to reach me:
